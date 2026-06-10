@@ -1,0 +1,5 @@
+loop_position_source = "Custom"
+loop_begin = 23.311133
+loop_end = 112.2
+default_loop_mode = "Limited"
+loop_count = 2
